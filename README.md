@@ -48,8 +48,8 @@ Includes key performance cards and visual user data:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ARINDAMN00/Admin-Dashboard.git
-   cd Admin-Dashboard
+   git clone https://github.com/Arindamn00/Admin_Dashboard.git
+   cd Admin_Dashboard
 2. **Setup Environment**
  - Install XAMPP if not already installed
  -Copy this project folder into htdocs
