@@ -2,8 +2,8 @@
 session_start();
 
 // Demo admin credentials
-$adminUsername = 'admin';
-$adminPassword = 'password123';
+// $adminUsername = 'admin';
+// $adminPassword = 'password123';
 
 if (!isset($_SESSION['admin_logged_in']) || $_SESSION['admin_logged_in'] !== true) {
     if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['username']) && isset($_POST['password'])) {
